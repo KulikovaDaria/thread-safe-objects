@@ -1,0 +1,1 @@
+add_executable ( threadsafe_objects threadsafe_queue.h threadsafe_stack.h threadsafe_vector.h test.cpp )
